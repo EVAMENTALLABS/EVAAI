@@ -1,22 +1,23 @@
-# EvaAI: Self-hosted DeFi AI Agent Kit
+# EvaAI: Self-Hosted Mental AI Agent Kit
 
-EvaAI is an open, docker compose template that quickly bootstraps a fully featured AI trading environment including Web UI for portfolio management and agent interaction. This kit allows you to run your own AI-powered DeFi operations completely locally and securely.
+EvaAI is an open, Docker Compose template that quickly bootstraps a fully featured AI environment designed to support mental well-being, self-reflection, and mindfulness. This kit allows you to run your own AI-powered mental health assistant completely locally and securely.
 
-![EvaAI Dashboard Screenshot]
+---
 
 ## What's Included
 
-✅ **EvaAI Core** - Advanced AI agent specifically trained for DeFi operations and market analysis
+✅ **EvaAI Core** - An advanced AI agent trained to provide empathetic conversations, mental health insights, and mindfulness coaching.  
 
-✅ **Local LLM Integration** - Run powerful language models locally for secure financial analysis
+✅ **Local LLM Integration** - Run powerful language models locally for private and secure mental health support.  
 
-✅ **Eva Web UI** - Professional trading interface to interact with your AI agents and monitor portfolios
+✅ **Eva Web UI** - Intuitive interface for interacting with your mental AI agent and tracking progress on well-being goals.  
 
-✅ **Strategy Builder** - No-code platform to create and test custom trading strategies
+✅ **Mindfulness Builder** - A no-code platform to create and customize guided meditation and mindfulness exercises.  
 
-✅ **Vector Database** - High-performance storage for market data and trading patterns
+✅ **Vector Database** - High-performance storage for journaling, conversation patterns, and mental health resources.  
 
-✅ **Multi-chain Support** - Seamless integration with major blockchain networks
+✅ **Multi-Platform Support** - Seamless integration across devices, ensuring support is available whenever you need it.  
+
 
 ## Installation
 
@@ -137,7 +138,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Discord: [Join our community]
 - Documentation: [docs.evalabs.io]
-- GitHub Issues: [Report bugs]
 - Email: support@evalabs.io
