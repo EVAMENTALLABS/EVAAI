@@ -47,40 +47,8 @@ docker compose up
 git clone https://github.com/evalabs/evai-starter.git
 cd evai-starter
 docker compose --profile cpu up
-```
-
-## Quick Start Guide
-
-1. Open `http://localhost:8080` to access Eva Web UI
-
-2. Set up your wallet connections:
-   - Connect MetaMask or other Web3 wallet
-   - Configure API keys for supported chains
-   - Set up trading parameters
-
-3. Configure your first AI agent:
-   ```bash
-   eva agent init --strategy defi-basic
-   eva agent train --model defi
-   ```
-
-4. Set up protocol connections:
-   - Uniswap URL: http://uniswap-node:8545
-   - AAVE endpoints: http://aave-node:8545
-   - Vector DB: http://vector-db:6333
-
-5. Test your setup:
-   - Run basic market analysis
-   - Execute test trades on testnet
-   - Monitor agent performance
 
 ## Core Features
-
-### AI Trading Agent
-- Market sentiment analysis
-- Price prediction models
-- Risk management
-- Portfolio optimization
 
 ### Strategy Builder
 - Visual strategy creation
